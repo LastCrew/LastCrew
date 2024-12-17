@@ -10,7 +10,7 @@
 
 Greetings, wanderer of the digital universe!  
 
-I am **Captain Elias Trent AKA. The Last Crew**, the last standing crew member aboard the starship **Aurora-7**. When Earth succumbed to the chaos of its own making, I volunteered to take humanity's last message into the stars—a solitary voyage, lightyears from home.  
+I am **Captain Elias Trent**, the last standing crew member aboard the starship **Aurora-7**. When Earth succumbed to the chaos of its own making, I volunteered to take humanity's last message into the stars—a solitary voyage, lightyears from home.  
 
 ### 🚀 **Mission Log**  
 - **Role**: Communications Officer, Chief Systems Engineer  
@@ -66,8 +66,6 @@ If I don’t come back, take care of my logs. Finish what I started.
 **Captain Elias Trent, signing off.**  
 
 > *"The stars are vast, but courage takes us farther."*  
-
-![Spaceship](https://i.imgur.com/o6O8MZr.jpg)  
 
 ---
 
